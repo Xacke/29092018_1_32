@@ -8,7 +8,14 @@
     <title>Главная страница</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>Это наша супер страница 2</h1>
+=======
+    <h1>Это наша супер страница 1</h1>
+    <p class='par'> Это начало добавляемого параграфа</p>
+
+
+>>>>>>> change-body-color
     <script src="/js/javascript.js"></script>
 </body>
 </html>
