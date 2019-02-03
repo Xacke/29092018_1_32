@@ -9,6 +9,9 @@
 </head>
 <body>
     <h1>Это наша супер страница 1</h1>
+    <p> Это начало добавляемого параграфа</p>
+
+
     <script src="/js/javascript.js"></script>
 </body>
 </html>
