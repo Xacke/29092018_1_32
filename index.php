@@ -8,6 +8,7 @@
     <title>Главная страница</title>
 </head>
 <body>
+    <h1>Это наша супер страница 1</h1>
     <script src="/js/javascript.js"></script>
 </body>
 </html>
